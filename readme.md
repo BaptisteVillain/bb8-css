@@ -5,3 +5,5 @@
 ## ABOUT
 
 A small project with no img and js
+
+live demo at baptistevillain.fr/hetic/bb-8
